@@ -1,0 +1,5 @@
+ALTER TABLE flash_news 
+ADD COLUMN publish_datetime DATETIME,
+ADD COLUMN event_datetime DATETIME,
+ADD COLUMN event_status VARCHAR(20) DEFAULT 'Scheduled',
+ADD COLUMN approval_status ENUM('Pending', 'Approved', 'Rejected') DEFAULT 'Pending';

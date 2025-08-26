@@ -1,0 +1,14 @@
+Message: hi
+Event DateTime: 2025-07-05 10:11:00
+User: Shri. V Sekar HOS (hos_itc)
+Department: ITC
+Published At: 2025-06-26 11:00:00
+Status: Scheduled
+-----------------------------
+Message: International yoga day
+Event DateTime: 2025-07-11 20:41:00
+User: Ram HOS (hos_admin)
+Department: Administration
+Published At: 2025-06-24 19:14:24
+Status: Cancelled
+-----------------------------

@@ -1,0 +1,30 @@
+======= LIVE FLASH NEWS PREVIEW =======
+
+Message: International yoga day
+Event DateTime: 2025-07-11 20:41:00
+User: Ram HOS (hos_admin)
+Department: Administration
+Published At: 2025-06-24 19:14:24
+Status: Cancelled
+--------------------------------------
+Message: hi
+Event DateTime: 2025-07-05 10:11:00
+User: Shri. V Sekar HOS (hos_itc)
+Department: ITC
+Published At: 2025-06-26 11:00:00
+Status: Scheduled
+--------------------------------------
+Message: hi
+Event DateTime: 2025-06-27 19:24:00
+User: Sita HOS (hos_itc)
+Department: ITC
+Published At: 2025-06-24 19:22:45
+Status: Scheduled
+--------------------------------------
+Message: General meeting for the year 2025 will be held on Thursday, 26th June 2025 at 10:00 AM in the Conference Hall. All concerned are requested to attend without fail. Thank You!
+Event DateTime: 2025-06-26 10:00:00
+User: Shri. V Sekar HOS (hos_itc)
+Department: ITC
+Published At: 2025-06-25 10:00:00
+Status: Scheduled
+--------------------------------------

@@ -1,0 +1,48 @@
+Flash News Log Entry
+---------------------------
+User ID     : hos_itc
+Name        : Shri. V Sekar HOS
+Department  : ITC
+Message     : General meeting for the year 2025 will be held on Thursday, 26th June 2025 at 10:00 AM in the Conference Hall. All concerned are requested to attend without fail.
+Event       : 2025-06-26 at 10:00
+Publish     : 2025-06-25 at 10:00
+Submitted   : 2025-06-24 22:03:09
+Status      : Pending
+---------------------------
+
+Flash News Log Entry
+---------------------------
+User ID     : hos_itc
+Name        : Shri. V Sekar HOS
+Department  : ITC
+Message     : hi
+Event       : 2025-07-05 at 10:11
+Publish     : 2025-06-26 at 11:00
+Submitted   : 2025-06-24 22:13:01
+Status      : Pending
+---------------------------
+
+Flash News Log Entry
+---------------------------
+User ID     : hos_admin
+Name        : Ram HOS
+Department  : Administration
+Message     : hi
+Event       : 2025-07-03 at 10:10
+Publish     : 2025-06-25 at 10:00
+Submitted   : 2025-06-24 22:42:42
+Status      : Approved
+---------------------------
+
+Flash News Log Entry
+---------------------------
+User ID     : hos_itc
+Name        : Shri. V Sekar HOS
+Department  : ITC
+Message     : General meeting for the year 2025 will be held on Thursday, 26th June 2025 at 10:00 AM in the Conference Hall. All concerned are requested to attend without fail. Thank You!
+Event       : 2025-07-04 at 10:30
+Publish     : 2025-07-03 at 11:00
+Submitted   : 2025-06-26 23:24:55
+Status      : Pending
+---------------------------
+
